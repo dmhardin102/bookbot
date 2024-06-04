@@ -1,1 +1,2 @@
-Hello Readme
+BookBot is my first project!
+
